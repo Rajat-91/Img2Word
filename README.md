@@ -196,10 +196,6 @@ Contributions, suggestions, and bug reports are welcome.
 3. Commit your changes.
 4. Open a pull request.
 
-## 📜 License
-
-A license has not yet been specified. Until one is added to the repository, permission to reuse or redistribute this project should not be assumed.
-
 ---
 
 **Built by [Rajat Sharma](https://github.com/Rajat-91)**
