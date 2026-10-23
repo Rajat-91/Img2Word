@@ -755,6 +755,18 @@
   font-size: 16px;
 }
 
+.footer-main {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 6px 20px;
+}
+
+.footer-credit strong {
+  color: var(--ink);
+  font-weight: 600;
+}
+
 /* ---------- Responsive ---------- */
 
 @media (max-width: 880px) {

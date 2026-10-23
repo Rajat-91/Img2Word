@@ -426,10 +426,15 @@ function App() {
       </main>
 
       <footer className="footer">
-        <a className="footer-brand" href="/">
-          Img2Word
-        </a>
-        <span>Make your text editable.</span>
+        <div className="footer-main">
+          <a className="footer-brand" href="/">
+            Img2Word
+          </a>
+          <span>Make your text editable.</span>
+        </div>
+        <span className="footer-credit">
+          Product by <strong>Rajat Sharma</strong>
+        </span>
       </footer>
     </div>
   );
